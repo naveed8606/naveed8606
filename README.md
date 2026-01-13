@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Naveed
 
-I'm a software engineer with experience across testing, automation, and application development.  
+I'm a software engineer with experience across testing, automation, and application development in enterprise environments.  
 I enjoy working across the software development lifecycle and am interested in building reliable, scalable, and well-engineered systems.
 
 ---
@@ -15,17 +15,18 @@ I enjoy working across the software development lifecycle and am interested in b
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, Java, SQL  
 - **Development:** React.js, Git, REST APIs  
-- **Testing & Automation:** API Testing, Automation Frameworks, Postman  
+- **Testing & Automation:** TOSCA, API Testing, Automation Frameworks, Postman  
+- **Enterprise Systems:** SAP (Business Process & Integration Testing)  
 - **Cloud & DevOps:** Google Cloud Platform (GCP), CI/CD concepts, Linux basics  
 - **Databases:** SQL, PL/SQL  
-- **Ways of Working:** Agile, SDLC, Collaboration  
+- **Ways of Working:** Agile, SDLC, Cross-functional Collaboration  
 
 ---
 
 ### 🌱 What I'm learning
 - Backend and system design fundamentals  
 - Cloud-native concepts and DevOps practices  
-- Writing cleaner, more maintainable code  
+- Writing cleaner, more maintainable, and testable code  
 
 ---
 
