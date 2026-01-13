@@ -31,7 +31,7 @@ I enjoy working across the software development lifecycle and am interested in b
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [linkedin.com/in/naveednihan](https://linkedin.com/in/naveednihan)  
+- LinkedIn: [https://linkedin.com/in/naveed-nihan-73b814277)  
 - Email: naveednihankm2002@gmail.com  
 
 ---
